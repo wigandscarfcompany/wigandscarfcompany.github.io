@@ -875,12 +875,12 @@ h2.title:before {
 
     color: white;
     font-size: 130%;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .shipping .shipping-ofert span {
-    font-weight: 800;
-    color: #FE980F;
+    font-weight: 900;
+    color: white;
 }
 
 .price-range {
@@ -1107,6 +1107,14 @@ h2.title {
     color: #fff;
 }
 
+#sunglass img {
+    height: 30rem;
+}
+
+#kids img {
+    height: 20rem;
+}
+
 .nav-tabs li.active a,
 .nav-tabs li.active a:hover,
 .nav-tabs li.active a:focus {
@@ -1135,6 +1143,10 @@ h2.title {
 
 #recommended-item-carousel .carousel-inner .item {
     padding-left: 0;
+}
+
+#recommended-item-carousel .items2 img {
+    height: 25rem;
 }
 
 .recommended-item-control {
@@ -1282,6 +1294,10 @@ h2.title {
 
 #similar-product .carousel-inner .item {
     padding-left: 0px;
+}
+
+.carousel-top img {
+    width: 50%;
 }
 
 #similar-product .carousel-inner .item img {
@@ -1650,6 +1666,10 @@ h2.title {
 #cart_items .cart_info {
     border: 1px solid #E6E4DF;
     margin-bottom: 50px
+}
+
+#cart_items img {
+    width: 11rem;
 }
 
 #cart_items .cart_info .cart_menu {
